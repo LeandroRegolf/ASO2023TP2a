@@ -1,0 +1,7 @@
+﻿¿Qué problemas se puede ver a simple vista?
+
+El problema que detecto es que en la primera prueba de ejecucion el comensal 0 se comio todas las hamburguesas y en la segunda ejecucion el comensal 1 se comio todas las hamburguesas y tambien el orden de las hamburguesas restantes parece variar cada vez que se ejecuta.
+
+¿Qué nombre se le dá a esta falla que ocurre en el código que provoca que cada ejecución presente resultados diferentes?
+
+El nombre a la falla en el código que provoca ese resultado diferente es el Rage Conditions.
